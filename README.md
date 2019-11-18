@@ -33,8 +33,8 @@
 # 手机端操作
 
 ## 证书安装与信任
-证书地址(设备上点击链接应该会自动跳转)：，
-https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
+证书地址(设备上点击链接应该会自动跳转)：
+> https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
 
 （上面这个证书是 UnblockNeteaseMusic 作者的，如果不信任的话，这个软件也可以不用了，找其它方式）
 
